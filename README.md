@@ -8,3 +8,5 @@
 - trabalho freelancer realizado pelo trampo.co.
 
 - Funciona perfeitamente,precisa de atualizações para atender melhor a demanda do site.
+
+- Foi feito em Python 
